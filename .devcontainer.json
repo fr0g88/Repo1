@@ -1,0 +1,4 @@
+{
+    "image": "ros:foxy",
+    "forwardPorts": [3000]
+}
